@@ -7,4 +7,5 @@ app = Flask(__name__)
 
 # function definition
 def hello(): 
-    return "<p>Hello, World!</p><p>hello</p>"
+    return "<p>Hello, World!</p>", 418
+
