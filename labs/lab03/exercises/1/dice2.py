@@ -18,7 +18,7 @@ def dice():
         rolls = []
         total = 0
             
-        for r in range():
+        for r in range(num):
             roll = random.randint(1,6)
             rolls.append(str(roll))
             total += roll
