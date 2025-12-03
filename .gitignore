@@ -287,3 +287,6 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 .ionide
+
+# ignore config file(has keys)
+/home/ashwin/Documents/uni/3/AWT/awtLearn/labs/lab05/etc/defaults.cfg
